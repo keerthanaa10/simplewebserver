@@ -95,6 +95,7 @@ Testing the webserver.
 ```
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/815abcd6-df79-474b-ba8e-d4f852b36bfa)
 
 
 ## RESULT:
